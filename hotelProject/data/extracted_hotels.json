@@ -1,0 +1,4241 @@
+[
+    {
+        "name": "Hôtel Origines par Adrien Descouls *****",
+        "destinationName": "Puy-de-Dôme, France",
+        "normalizedPrice": 106.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-02T00:05+0100",
+        "offerEndDate": "2025-01-10T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "25hours Hotel Terminus Nord ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 135.0,
+        "discount": 44.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-10T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Kappa Club Seven Islands Resort ****",
+        "destinationName": "Watamu, Kenya",
+        "normalizedPrice": 972.0,
+        "discount": null,
+        "offerStartDate": "2024-12-27T00:05+0100",
+        "offerEndDate": "2025-01-10T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Mercure Dijon Centre Clemenceau ****",
+        "destinationName": "Dijon, France",
+        "normalizedPrice": 109.0,
+        "discount": 40.0,
+        "offerStartDate": "2024-12-20T00:05+0100",
+        "offerEndDate": "2025-01-10T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Safari époustouflant et séjour en All Inclusive au Kenya",
+        "destinationName": "Kenya",
+        "normalizedPrice": 1714.0,
+        "discount": null,
+        "offerStartDate": "2024-12-27T00:05+0100",
+        "offerEndDate": "2025-01-10T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Dukes' Academie ****",
+        "destinationName": "Bruges, Belgique",
+        "normalizedPrice": 147.0,
+        "discount": 34.0,
+        "offerStartDate": "2024-12-27T00:05+0100",
+        "offerEndDate": "2025-01-10T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Arrecife Gran Hotel & SPA *****",
+        "destinationName": "Lanzarote, Îles Canaries",
+        "normalizedPrice": 347.0,
+        "discount": null,
+        "offerStartDate": "2024-12-31T00:05+0100",
+        "offerEndDate": "2025-01-10T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Phileas Hotel & Spa ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 152.0,
+        "discount": 41.0,
+        "offerStartDate": "2024-12-20T00:05+0100",
+        "offerEndDate": "2025-01-10T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "F-Zeen Boutique Hotel Zanzibar",
+        "destinationName": "Zanzibar, Tanzanie",
+        "normalizedPrice": 119.94,
+        "discount": 38.0,
+        "offerStartDate": "2024-12-20T00:05+0100",
+        "offerEndDate": "2025-01-10T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "D'Ubud au sud de l'île, Bali en trois étapes",
+        "destinationName": "Indonésie : Bali & Nusa Lembongan",
+        "normalizedPrice": 501.99,
+        "discount": 0.0,
+        "offerStartDate": "2024-12-10T00:05+0100",
+        "offerEndDate": "2025-01-10T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Van Der Valk Saint-Aygulf ****",
+        "destinationName": "Saint-Aygulf, France",
+        "normalizedPrice": 84.0,
+        "discount": 67.0,
+        "offerStartDate": "2024-12-12T00:05+0100",
+        "offerEndDate": "2025-01-10T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Pullman Montpellier Centre **** - Dernière minute",
+        "destinationName": "Montpellier, France",
+        "normalizedPrice": 133.0,
+        "discount": 49.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Lyon Centre Brotteaux **** - Dernière minute",
+        "destinationName": "Lyon, France",
+        "normalizedPrice": 93.0,
+        "discount": 34.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris Montparnasse Raspail **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 120.0,
+        "discount": 6.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Clermont-Ferrand **** - Dernière minute",
+        "destinationName": "Clermont-Ferrand, France",
+        "normalizedPrice": 117.0,
+        "discount": 37.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Annecy Centre **** - Dernière minute",
+        "destinationName": "Annecy, France",
+        "normalizedPrice": 78.0,
+        "discount": 31.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "La Villa Haussmann **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 286.0,
+        "discount": 16.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Marseille Centre Bompard La Corniche **** - Dernière minute",
+        "destinationName": "Marseille, France",
+        "normalizedPrice": 100.0,
+        "discount": 54.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Lorient Centre **** - Dernière minute",
+        "destinationName": "Lorient, France",
+        "normalizedPrice": 92.0,
+        "discount": 30.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "L'Échiquier Opéra Paris - MGallery **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 166.0,
+        "discount": 27.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Nice Centre Vieux Nice **** - Dernière minute",
+        "destinationName": "Nice, France",
+        "normalizedPrice": 85.0,
+        "discount": 29.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "La Villa Maillot Arc de Triomphe **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 165.0,
+        "discount": 22.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Chambéry Centre **** - Dernière minute",
+        "destinationName": "Chambéry, France",
+        "normalizedPrice": 67.0,
+        "discount": 34.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris Boulogne **** - Dernière minute",
+        "destinationName": "Boulogne-Billancourt, France",
+        "normalizedPrice": 108.0,
+        "discount": 23.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Le Grand Aigle Hôtel & Spa **** - Dernière minute",
+        "destinationName": "Serre-Chevalier, France",
+        "normalizedPrice": 152.0,
+        "discount": 60.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Saint-Omer Centre Gare **** - Dernière minute",
+        "destinationName": "Saint-Omer, France",
+        "normalizedPrice": 76.0,
+        "discount": 49.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Orange Centre **** - Dernière minute",
+        "destinationName": "Orange, France",
+        "normalizedPrice": 99.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Arass Hotel & Business Flats - Dernière minute",
+        "destinationName": "Anvers, Belgique",
+        "normalizedPrice": 90.0,
+        "discount": 18.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Grenoble Centre Alpotel **** - Dernière minute",
+        "destinationName": "Grenoble, France",
+        "normalizedPrice": 84.0,
+        "discount": 24.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Best Western Premier Roosevelt **** - Dernière minute",
+        "destinationName": "Nice, France",
+        "normalizedPrice": 83.0,
+        "discount": 36.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Five Boutique Hotel Paris Quartier Latin - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 172.0,
+        "discount": 1.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Saint Charles Val Cenis **** - Dernière minute",
+        "destinationName": "Savoie, France",
+        "normalizedPrice": 176.0,
+        "discount": 47.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Perpignan Rivesaltes **** - Dernière minute",
+        "destinationName": "Perpignan, France",
+        "normalizedPrice": 79.0,
+        "discount": 43.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris Place d'Italie **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 88.0,
+        "discount": 51.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Lyon Est Chaponnay **** - Dernière minute",
+        "destinationName": "Lyon, France",
+        "normalizedPrice": 76.0,
+        "discount": 36.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Touraine Opéra **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 90.0,
+        "discount": 38.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Demeures de Campagne Parc du Coudray **** - Dernière minute",
+        "destinationName": "Essonne, France",
+        "normalizedPrice": 129.0,
+        "discount": 1.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Balmoral **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 141.0,
+        "discount": 5.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel de Joséphine Bonaparte **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 130.0,
+        "discount": 21.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Les Dames du Panthéon **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 185.0,
+        "discount": 35.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Mercure Nice Centre Notre Dame **** - Dernière minute",
+        "destinationName": "Nice, France",
+        "normalizedPrice": 87.0,
+        "discount": 56.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Lyon Centre Place de la République **** - Dernière minute",
+        "destinationName": "Lyon, France",
+        "normalizedPrice": 84.0,
+        "discount": 46.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Avignon Centre Palais des Papes **** - Dernière minute",
+        "destinationName": "Avignon, France",
+        "normalizedPrice": 99.0,
+        "discount": 51.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Empreinte Hôtel & Spa **** - Dernière minute",
+        "destinationName": "Orléans, France",
+        "normalizedPrice": 115.0,
+        "discount": 47.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Paris Rueil-Malmaison **** - Dernière minute",
+        "destinationName": "Rueil-Malmaison, France",
+        "normalizedPrice": 99.0,
+        "discount": 51.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Arras Centre Gare **** - Dernière minute",
+        "destinationName": "Arras, France",
+        "normalizedPrice": 79.0,
+        "discount": 52.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Marne La Vallée Bussy-St-Georges **** - Dernière minute",
+        "destinationName": "Marne-la-Vallée, France",
+        "normalizedPrice": 95.0,
+        "discount": 33.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris Roissy CDG **** - Dernière minute",
+        "destinationName": "Roissy-en-France, France",
+        "normalizedPrice": 88.0,
+        "discount": 45.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris-Val-de-Fontenay **** - Dernière minute",
+        "destinationName": "Fontenay-sous-Bois, France",
+        "normalizedPrice": 88.0,
+        "discount": 44.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Centre Confluence Bord de Saone **** - Dernière minute",
+        "destinationName": "Lyon, France",
+        "normalizedPrice": 100.0,
+        "discount": 51.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Suites Nancy Centre **** - Dernière minute",
+        "destinationName": "Nancy, France",
+        "normalizedPrice": 80.0,
+        "discount": 37.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Lyon Centre Lumière **** - Dernière minute",
+        "destinationName": "Lyon, France",
+        "normalizedPrice": 88.0,
+        "discount": 48.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Marne-la-Vallée Noisy-le-Grand **** - Dernière minute",
+        "destinationName": "Marne-la-Vallée, France",
+        "normalizedPrice": 73.0,
+        "discount": 48.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Hyères Centre Côte d'Azur **** - Dernière minute",
+        "destinationName": "Hyères, France",
+        "normalizedPrice": 84.0,
+        "discount": 53.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Rennes Place de Bretagne *** - Dernière minute",
+        "destinationName": "Rennes, France",
+        "normalizedPrice": 74.0,
+        "discount": 41.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Grenoble Centre Président **** - Dernière minute",
+        "destinationName": "Grenoble, France",
+        "normalizedPrice": 85.0,
+        "discount": 22.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Suites Reims Centre **** - Dernière minute",
+        "destinationName": "Reims, France",
+        "normalizedPrice": 92.0,
+        "discount": 34.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Nantes Centre Gare **** - Dernière minute",
+        "destinationName": "Nantes, France",
+        "normalizedPrice": 96.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Suites Clermont-Ferrand Polydôme **** - Dernière minute",
+        "destinationName": "Clermont-Ferrand, France",
+        "normalizedPrice": 87.0,
+        "discount": 43.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Lille Centre Grand Place **** - Dernière minute",
+        "destinationName": "Lille, France",
+        "normalizedPrice": 92.0,
+        "discount": 51.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Grand Hôtel du Midi **** - Dernière minute",
+        "destinationName": "Montpellier, France",
+        "normalizedPrice": 135.0,
+        "discount": 28.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Grenoble Centre **** - Dernière minute",
+        "destinationName": "Grenoble, France",
+        "normalizedPrice": 83.0,
+        "discount": 29.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Roissy-Charles de Gaulle Convention **** - Dernière minute",
+        "destinationName": "Roissy-en-France, France",
+        "normalizedPrice": 86.0,
+        "discount": 56.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Luxembourg Off Kirchberg **** - Dernière minute",
+        "destinationName": "Luxembourg, Luxembourg",
+        "normalizedPrice": 101.0,
+        "discount": 28.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Nantes Centre Bord de Loire **** - Dernière minute",
+        "destinationName": "Nantes, France",
+        "normalizedPrice": 76.0,
+        "discount": 51.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Suites Nice Aéroport **** - Dernière minute",
+        "destinationName": "Nice, France",
+        "normalizedPrice": 89.0,
+        "discount": 19.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Lyon Centre Saxe Lafayette **** - Dernière minute",
+        "destinationName": "Lyon, France",
+        "normalizedPrice": 97.0,
+        "discount": 39.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Saint-Malo Balmoral **** - Dernière minute",
+        "destinationName": "Saint-Malo, France",
+        "normalizedPrice": 67.0,
+        "discount": 73.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Senart Golf de Greenparc **** - Dernière minute",
+        "destinationName": "Essonne, France",
+        "normalizedPrice": 92.0,
+        "discount": 43.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Lille Aéroport **** - Dernière minute",
+        "destinationName": "Lille aéroport, France",
+        "normalizedPrice": 79.0,
+        "discount": 58.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Paris Centre Bercy **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 135.0,
+        "discount": 46.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Clermont-Ferrand Centre Jaude **** - Dernière minute",
+        "destinationName": "Clermont-Ferrand, France",
+        "normalizedPrice": 103.0,
+        "discount": 29.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Aix-les-Bains Domaine de Marlioz Hôtel & Spa **** - Dernière minute",
+        "destinationName": "Aix-les-Bains, France",
+        "normalizedPrice": 99.0,
+        "discount": 48.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris Bastille Marais **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 111.0,
+        "discount": 3.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Suites Lille Europe **** - Dernière minute",
+        "destinationName": "Lille, France",
+        "normalizedPrice": 84.0,
+        "discount": 30.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Cavaillon **** - Dernière minute",
+        "destinationName": "Luberon, France",
+        "normalizedPrice": 95.0,
+        "discount": 36.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Grand Hôtel La Cloche Dijon - MGallery ***** - Dernière minute",
+        "destinationName": "Dijon, France",
+        "normalizedPrice": 192.0,
+        "discount": 23.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Lyon Centre Beaux-Arts **** - Dernière minute",
+        "destinationName": "Lyon, France",
+        "normalizedPrice": 99.0,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Rambouillet Relays du Château **** - Dernière minute",
+        "destinationName": "Rambouillet, France",
+        "normalizedPrice": 76.0,
+        "discount": 46.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Nancy Ouest **** - Dernière minute",
+        "destinationName": "Nancy, France",
+        "normalizedPrice": 89.0,
+        "discount": 38.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris Suresnes Longchamp **** - Dernière minute",
+        "destinationName": "Suresnes, France",
+        "normalizedPrice": 88.0,
+        "discount": 37.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Avignon Centre **** - Dernière minute",
+        "destinationName": "Avignon, France",
+        "normalizedPrice": 95.0,
+        "discount": 53.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Lille Centre Vieux Lille **** - Dernière minute",
+        "destinationName": "Lille, France",
+        "normalizedPrice": 84.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris Saint Cloud Hippodrome **** - Dernière minute",
+        "destinationName": "Saint-Cloud, France",
+        "normalizedPrice": 81.0,
+        "discount": 47.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris Vaugirard Porte de Versailles **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 130.0,
+        "discount": 46.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Stendhal Place Vendôme Paris - MGallery **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 183.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Nice Promenade des Anglais **** - Dernière minute",
+        "destinationName": "Nice, France",
+        "normalizedPrice": 120.0,
+        "discount": 52.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Charleroi Centre **** - Dernière minute",
+        "destinationName": "Charleroi, Belgique",
+        "normalizedPrice": 81.0,
+        "discount": 10.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Thionville Centre **** - Dernière minute",
+        "destinationName": "Thionville, France",
+        "normalizedPrice": 78.0,
+        "discount": 24.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Platine Hotel **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 280.0,
+        "discount": 6.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Duette *** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 72.0,
+        "discount": 72.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris Opéra Faubourg Montmartre **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 126.0,
+        "discount": 28.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Les Plumes **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 130.0,
+        "discount": 4.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Nice Centre Grimaldi **** - Dernière minute",
+        "destinationName": "Nice, France",
+        "normalizedPrice": 79.0,
+        "discount": 56.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Lille Centre Grand Place **** - Dernière minute",
+        "destinationName": "Lille, France",
+        "normalizedPrice": 88.0,
+        "discount": 32.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Les Théâtres **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 120.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris Montparnasse Pasteur **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 128.0,
+        "discount": 17.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris Tour Eiffel Pont Mirabeau **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 120.0,
+        "discount": 33.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Kube Paris Hotel & Ice Bar **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 124.0,
+        "discount": 47.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris Bastille Saint-Antoine **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 102.0,
+        "discount": 38.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Lyon Gerland Musée des Confluences **** - Dernière minute",
+        "destinationName": "Lyon, France",
+        "normalizedPrice": 92.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Best Western Plus Hôtel Masséna Nice **** - Dernière minute",
+        "destinationName": "Nice, France",
+        "normalizedPrice": 68.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris Montmartre Sacré-Coeur **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 137.0,
+        "discount": 43.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Le Moulin de Fourges - Dernière minute",
+        "destinationName": "Eure, France",
+        "normalizedPrice": 112.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Nantes Passage Pommeraye **** - Dernière minute",
+        "destinationName": "Nantes, France",
+        "normalizedPrice": 76.0,
+        "discount": 42.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "L'Eautel Toulon Port **** - Dernière Minute",
+        "destinationName": "Toulon, France",
+        "normalizedPrice": 109.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Ilôt du Golf **** BW Premier Collection - Dernière minute",
+        "destinationName": "Alpes-Maritimes, France",
+        "normalizedPrice": 116.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Demeures de campagne Chemins de Sologne - Dernière minute",
+        "destinationName": "Orléans, France",
+        "normalizedPrice": 127.0,
+        "discount": 2.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Maison Elle **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 219.0,
+        "discount": 23.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel Spiess & Spiess **** - Dernière minute",
+        "destinationName": "Vienne, Autriche",
+        "normalizedPrice": 131.0,
+        "discount": 43.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Résidence La Réserve Ferney-Voltaire **** - Dernière minute",
+        "destinationName": "Auvergne-Rhône-Alpes, France",
+        "normalizedPrice": 117.0,
+        "discount": 1.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Lille Centre Gares **** - Dernière minute",
+        "destinationName": "Lille, France",
+        "normalizedPrice": 88.0,
+        "discount": 39.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Nehô Suites Porte de Genève - Gare Annemasse *** - Dernière minute",
+        "destinationName": "Haute-Savoie, France",
+        "normalizedPrice": 83.0,
+        "discount": 16.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Mercure Rennes Centre Parlement **** - Dernière minute",
+        "destinationName": "Rennes, France",
+        "normalizedPrice": 99.0,
+        "discount": 6.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Demeures de Campagne Domaine de Maffliers - L'Isle Adam **** - Dernière minute",
+        "destinationName": "Maffliers, France",
+        "normalizedPrice": 120.0,
+        "discount": 53.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Paris Val-de-Fontenay - Dernière minute",
+        "destinationName": "Val-de-Marne, France",
+        "normalizedPrice": 74.0,
+        "discount": 44.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Babel Belleville - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 83.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Orléans Centre Gare **** - Dernière minute",
+        "destinationName": "Orléans, France",
+        "normalizedPrice": 106.0,
+        "discount": 24.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Claude Bernard Paris Saint-Germain - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 174.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Maison Urbaine - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 64.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Créteil Lac **** - Dernière minute",
+        "destinationName": "Créteil, France",
+        "normalizedPrice": 95.0,
+        "discount": 35.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "L'Ermitage Mont Saint Michel ***** - Dernière minute",
+        "destinationName": "Le Mont-Saint-Michel, France",
+        "normalizedPrice": 273.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Villa Makassar ***** - Dernière minute",
+        "destinationName": "Marrakech, Maroc",
+        "normalizedPrice": 229.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Greet Hôtel Montbéliard - Dernière minute",
+        "destinationName": "Doubs, France",
+        "normalizedPrice": 51.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Château d’Ermenonville - Dernière minute",
+        "destinationName": "Oise, France",
+        "normalizedPrice": 102.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Best Western le Galice **** - Dernière minute",
+        "destinationName": "Aix-en-Provence, France",
+        "normalizedPrice": 114.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Pullman Lyon **** - Dernière minute",
+        "destinationName": "Lyon, France",
+        "normalizedPrice": 120.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Sofitel Lyon Bellecour ***** - Dernière minute",
+        "destinationName": "Lyon, France",
+        "normalizedPrice": 134.0,
+        "discount": 49.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "RockyPop Hotel - Dernière minute",
+        "destinationName": "Chamonix, France",
+        "normalizedPrice": 76.0,
+        "discount": 64.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris Orly Rungis **** - Dernière minute",
+        "destinationName": "Rungis, France",
+        "normalizedPrice": 89.0,
+        "discount": 55.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris 17 Batignolles **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 111.0,
+        "discount": 31.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Suites Marseille Centre Euromed **** - Dernière minute",
+        "destinationName": "Marseille, France",
+        "normalizedPrice": 79.0,
+        "discount": 58.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel de Cavoye **** - Dernière minute",
+        "destinationName": "Fontainebleau, France",
+        "normalizedPrice": 126.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Marseille Centre Prado Velodrome **** - Dernière minute",
+        "destinationName": "Marseille, France",
+        "normalizedPrice": 93.0,
+        "discount": 33.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Eden **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 117.0,
+        "discount": 24.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Pullman Paris Centre Bercy **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 158.0,
+        "discount": 39.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Pullman Toulouse Airport **** - Dernière minute",
+        "destinationName": "Toulouse, France",
+        "normalizedPrice": 123.0,
+        "discount": 38.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Mercure Président Biarritz Centre **** - Dernière minute",
+        "destinationName": "Biarritz, France",
+        "normalizedPrice": 99.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Libourne Saint-Emilion **** - Dernière minute",
+        "destinationName": "Libourne, France",
+        "normalizedPrice": 79.0,
+        "discount": 55.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Pullman Bordeaux Lac **** - Dernière minute",
+        "destinationName": "Bordeaux, France",
+        "normalizedPrice": 83.0,
+        "discount": 52.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Plaza Biarritz Plage, Handwritten Collection **** - Dernière minute",
+        "destinationName": "Biarritz, France",
+        "normalizedPrice": 111.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Domaine de Rochebois & Spa Nuxe **** - Dernière minute",
+        "destinationName": "Dordogne, France",
+        "normalizedPrice": 170.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Toulouse Centre Wilson Capitole **** - Dernière minute",
+        "destinationName": "Toulouse, France",
+        "normalizedPrice": 100.0,
+        "discount": 28.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Pullman Toulouse Centre Ramblas ***** - Dernière minute",
+        "destinationName": "Toulouse, France",
+        "normalizedPrice": 108.0,
+        "discount": 27.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "La Cour des Consuls - MGallery ***** - Dernière minute",
+        "destinationName": "Toulouse, France",
+        "normalizedPrice": 233.0,
+        "discount": 10.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Toulouse Purpan Aéroport **** - Dernière minute",
+        "destinationName": "Toulouse, France",
+        "normalizedPrice": 87.0,
+        "discount": 28.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Le Palais Gallien hôtel & Spa ***** - Dernière minute",
+        "destinationName": "Bordeaux, France",
+        "normalizedPrice": 254.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Toulouse Golf de Seilh **** - Dernière minute",
+        "destinationName": "Toulouse, France",
+        "normalizedPrice": 79.0,
+        "discount": 49.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Le Boutique hôtel & Spa Bordeaux ***** - Dernière minute",
+        "destinationName": "Bordeaux, France",
+        "normalizedPrice": 262.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "La Maison Bord'eaux **** - Dernière minute",
+        "destinationName": "Bordeaux, France",
+        "normalizedPrice": 180.0,
+        "discount": 100.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Relais Thalasso Île de Ré **** - Dernière minute",
+        "destinationName": "Île-de-Ré, France",
+        "normalizedPrice": 250.0,
+        "discount": 4.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Poitiers Site du Futuroscope **** - Dernière minute",
+        "destinationName": "Proche du Futuroscope, France",
+        "normalizedPrice": 69.0,
+        "discount": 29.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Bordeaux Château Chartrons **** - Dernière minute",
+        "destinationName": "Bordeaux, France",
+        "normalizedPrice": 88.0,
+        "discount": 43.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Bordeaux Centre **** - Dernière minute",
+        "destinationName": "Bordeaux, France",
+        "normalizedPrice": 95.0,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Bordeaux Centre-Ville **** - Dernière minute",
+        "destinationName": "Bordeaux, France",
+        "normalizedPrice": 97.0,
+        "discount": 29.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Domaine de la Corniche **** - Dernière minute",
+        "destinationName": "Yvelines, France",
+        "normalizedPrice": 84.0,
+        "discount": 56.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Carlton Lyon - MGallery **** - Dernière minute",
+        "destinationName": "Lyon, France",
+        "normalizedPrice": 134.0,
+        "discount": 60.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel Gatsby by HappyCulture **** - Dernière minute",
+        "destinationName": "Métropole de Lyon, France",
+        "normalizedPrice": 64.0,
+        "discount": 7.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Chromatics & Restaurant Hill Club by HappyCulture - Dernière minute",
+        "destinationName": "Lyon, France",
+        "normalizedPrice": 59.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Sofitel Le Scribe Paris Opéra ***** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 458.0,
+        "discount": 12.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mom’Art Hotel Paris **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 142.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Rouen Centre Cathédrale **** - Dernière minute",
+        "destinationName": "Rouen, France",
+        "normalizedPrice": 93.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Grand Hôtel Beauvau Marseille Vieux Port - MGallery **** - Dernière minute",
+        "destinationName": "Marseille, France",
+        "normalizedPrice": 108.0,
+        "discount": 41.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Excelsior Chamonix Hotel & Spa - Dernière minute",
+        "destinationName": "Chamonix, France",
+        "normalizedPrice": 107.0,
+        "discount": 64.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Horizon Resort Massane & Spa **** - Dernière minute",
+        "destinationName": "Hérault, France",
+        "normalizedPrice": 154.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Roi Soleil Prestige Plaisir - St Quentin **** - Dernière minute",
+        "destinationName": "Yvelines France",
+        "normalizedPrice": 106.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Drawing House **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 120.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "25hours Hotel Terminus Nord **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 125.0,
+        "discount": 42.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Molitor Paris ***** - MGallery - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 338.0,
+        "discount": 27.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mama Shelter Marseille - Dernière minute",
+        "destinationName": "Marseille, France",
+        "normalizedPrice": 84.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mama Shelter Bordeaux - Dernière minute",
+        "destinationName": "Bordeaux, France",
+        "normalizedPrice": 87.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mama Shelter Lyon - Dernière minute",
+        "destinationName": "Lyon, France",
+        "normalizedPrice": 84.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mama Shelter Dijon - Dernière minute",
+        "destinationName": "Dijon, France",
+        "normalizedPrice": 96.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mama Shelter Paris West - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 111.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mama Shelter Paris La Défense - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 103.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mama Shelter Paris East - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 79.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mama Shelter Toulouse **** - Dernière minute",
+        "destinationName": "Toulouse, France",
+        "normalizedPrice": 95.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mama Shelter Luxembourg - Dernière minute",
+        "destinationName": "Luxembourg",
+        "normalizedPrice": 113.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Château de Saulon **** - Dernière minute",
+        "destinationName": "Côte-d'Or, France",
+        "normalizedPrice": 92.0,
+        "discount": 73.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "MGallery Nest Paris la Defense ***** - Dernière minute",
+        "destinationName": "La Défense, France",
+        "normalizedPrice": 134.0,
+        "discount": 49.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Paris Notre-Dame Saint-Germain-des-Prés **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 160.0,
+        "discount": 53.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Beau Rivage **** - Dernière minute",
+        "destinationName": "Nice, France",
+        "normalizedPrice": 82.0,
+        "discount": 70.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel London Canary Wharf **** - Dernière minute",
+        "destinationName": "Londres, Royaume-Uni",
+        "normalizedPrice": 160.05,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Tribe Paris Batignolles **** - Dernière minute",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 111.0,
+        "discount": 38.0,
+        "offerStartDate": "2025-01-08T00:00+0100",
+        "offerEndDate": "2025-01-11T02:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Le Six ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 191.0,
+        "discount": 46.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Radisson Collection Hotel, Roma Antica *****",
+        "destinationName": "Rome, Italie",
+        "normalizedPrice": 275.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel de Bourgtheroulde *****",
+        "destinationName": "Rouen, France",
+        "normalizedPrice": 219.0,
+        "discount": 41.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Mercedes ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 201.0,
+        "discount": 31.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Blau Colònia Sant Jordi ****",
+        "destinationName": "Majorque, Espagne",
+        "normalizedPrice": 113.0,
+        "discount": 34.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Teritoria - Hôtel Baud ****",
+        "destinationName": "Bourgogne, France",
+        "normalizedPrice": null,
+        "discount": null,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel Blancafort Spa Thermal ****",
+        "destinationName": "Catalogne, Espagne",
+        "normalizedPrice": 87.0,
+        "discount": 64.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "The Marmara Taksim *****",
+        "destinationName": "Istanbul, Turquie",
+        "normalizedPrice": 184.0,
+        "discount": 8.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "H10 London Waterloo ****",
+        "destinationName": "Londres, Royaume-Uni",
+        "normalizedPrice": 186.33,
+        "discount": 33.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Barceló Illetas Albatros **** - Adults Only",
+        "destinationName": "Majorque, Espagne",
+        "normalizedPrice": 143.0,
+        "discount": 35.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Park Hyatt Dubaï *****",
+        "destinationName": "Dubaï, Émirats arabes unis",
+        "normalizedPrice": 225.31,
+        "discount": 37.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Zazen Boutique Resort & Spa ****",
+        "destinationName": "Koh Samui, Thaïlande",
+        "normalizedPrice": 290.94,
+        "discount": 22.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Sofitel Thalassa Sea & Spa *****",
+        "destinationName": "Agadir, Maroc",
+        "normalizedPrice": 277.36,
+        "discount": 56.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "TRIBE Lyon Croix Rousse ****",
+        "destinationName": "Lyon, France",
+        "normalizedPrice": 84.0,
+        "discount": 44.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Absolute Kiotari Resort ****",
+        "destinationName": "Rhodes, Grèce",
+        "normalizedPrice": 92.0,
+        "discount": 49.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Radisson Collection Hotel, Santa Sofia Milan *****",
+        "destinationName": "Milan, Italie",
+        "normalizedPrice": 256.0,
+        "discount": 38.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Insotel Cala Mandia Resort ****",
+        "destinationName": "Majorque, Espagne",
+        "normalizedPrice": 157.0,
+        "discount": 52.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit groupé : Les joyaux de la Jordanie en 4* ou 5*",
+        "destinationName": "Jordanie",
+        "normalizedPrice": 770.15,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel & SPA Niunit ****",
+        "destinationName": "El Serrat, Andorre",
+        "normalizedPrice": 119.0,
+        "discount": 44.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Aksari Villa Seminyak by Ini Vie Hospitality *****",
+        "destinationName": "Bali, Indonésie",
+        "normalizedPrice": 0.01,
+        "discount": 38.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "TRIBE Amsterdam City ****",
+        "destinationName": "Amsterdam, Pays-Bas",
+        "normalizedPrice": 67.0,
+        "discount": 47.0,
+        "offerStartDate": "2024-12-22T00:05+0100",
+        "offerEndDate": "2025-01-12T16:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Yotel Geneva Lake ****",
+        "destinationName": "Genève, Suisse",
+        "normalizedPrice": 109.89,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Residence Dar Lamia - Hotel & Spa ****",
+        "destinationName": "Marrakech, Maroc",
+        "normalizedPrice": 90.0,
+        "discount": 54.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel Villa Romantic & Spa ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 142.0,
+        "discount": 52.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Demeures & Châteaux Hôtel de la Porte Saint Malo",
+        "destinationName": "Dinan, France",
+        "normalizedPrice": 70.0,
+        "discount": 61.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel de Silhouette ****",
+        "destinationName": "Biarritz, France",
+        "normalizedPrice": 119.0,
+        "discount": 35.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Entre break urbain & pause farniente en Thaïlande",
+        "destinationName": "Thaïlande",
+        "normalizedPrice": null,
+        "discount": null,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Riu Cabo Verde ***** - Adults Only",
+        "destinationName": "Île de Sal, Cap-Vert",
+        "normalizedPrice": 688.0,
+        "discount": null,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Molitor Paris ***** - MGallery",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 291.0,
+        "discount": 34.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Sleeping Belle ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 161.0,
+        "discount": 35.0,
+        "offerStartDate": "2024-12-29T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Palais El Miria *****",
+        "destinationName": "Marrakech, Maroc",
+        "normalizedPrice": 104.0,
+        "discount": 55.0,
+        "offerStartDate": "2024-11-20T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "NOOE Maldives Kunaavashi *****",
+        "destinationName": "Maldives",
+        "normalizedPrice": 1785.03,
+        "discount": 31.0,
+        "offerStartDate": "2024-12-29T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Wakax Hacienda - Cenote & Boutique Hotel ****",
+        "destinationName": "Tulum, Mexique",
+        "normalizedPrice": 230.0,
+        "discount": 29.0,
+        "offerStartDate": "2024-12-29T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Lutecia Smart Design Hotel ****",
+        "destinationName": "Lisbonne, Portugal",
+        "normalizedPrice": 108.0,
+        "discount": 36.0,
+        "offerStartDate": "2024-12-29T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Sofitel Quiberon Thalassa Sea & Spa *****",
+        "destinationName": "Quiberon, France",
+        "normalizedPrice": 133.0,
+        "discount": 34.0,
+        "offerStartDate": "2024-12-21T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Golf Club Palmeraie *****",
+        "destinationName": "Marrakech, Maroc",
+        "normalizedPrice": 152.51,
+        "discount": 52.0,
+        "offerStartDate": "2024-12-03T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Relais Uffizi ****",
+        "destinationName": "Florence, Italie",
+        "normalizedPrice": 157.0,
+        "discount": 37.0,
+        "offerStartDate": "2024-12-24T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Sofitel Agadir Royal Bay *****",
+        "destinationName": "Agadir, Maroc",
+        "normalizedPrice": 161.89,
+        "discount": 52.0,
+        "offerStartDate": "2024-12-22T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Blue Palm Beach Palace Djerba ***** - Adults Only",
+        "destinationName": "Djerba, Tunisie",
+        "normalizedPrice": 406.0,
+        "discount": null,
+        "offerStartDate": "2024-12-29T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "TRIBE London Canary Wharf ****",
+        "destinationName": "Londres, Royaume-Uni",
+        "normalizedPrice": 99.45,
+        "discount": 34.0,
+        "offerStartDate": "2024-12-22T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "TRIBE Hotel Riga City Centre ****",
+        "destinationName": "Riga, Lettonie",
+        "normalizedPrice": 54.0,
+        "discount": 62.0,
+        "offerStartDate": "2024-12-22T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Le Versailles ****",
+        "destinationName": "Versailles, France",
+        "normalizedPrice": 110.0,
+        "discount": 36.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "L'Agapa Hotel & Spa *****",
+        "destinationName": "Bretagne, France",
+        "normalizedPrice": 179.0,
+        "discount": 39.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Croisière au Pays des Trolls avec CFC",
+        "destinationName": "Scandinavie",
+        "normalizedPrice": 2050.0,
+        "discount": 20.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Cavalta Boutique Hotel *****GL",
+        "destinationName": "Séville, Espagne",
+        "normalizedPrice": 82.0,
+        "discount": 64.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Lopesan Villa del Conde Resort & Thalasso *****",
+        "destinationName": "Grande Canarie, Îles Canaries",
+        "normalizedPrice": null,
+        "discount": null,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit privatif : Vietnam fascinant avec extension optionnelle à Pu Luong & Ninh Binh",
+        "destinationName": "Vietnam",
+        "normalizedPrice": 1282.93,
+        "discount": 0.0,
+        "offerStartDate": "2024-12-13T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Quark Hotel Milano ****",
+        "destinationName": "Milan, Italie",
+        "normalizedPrice": 120.0,
+        "discount": 39.0,
+        "offerStartDate": "2024-12-23T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel La Mirande *****",
+        "destinationName": "Avignon, France",
+        "normalizedPrice": 357.0,
+        "discount": 52.0,
+        "offerStartDate": "2025-01-05T14:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Cordial Mogan Playa **** Sup",
+        "destinationName": "Grande Canarie, Espagne",
+        "normalizedPrice": 415.0,
+        "discount": null,
+        "offerStartDate": "2025-01-04T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Secrets Bahía Real Resort & Spa Adults only *****",
+        "destinationName": "Fuerteventura, Île Canaries",
+        "normalizedPrice": 555.0,
+        "discount": null,
+        "offerStartDate": "2025-01-04T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Entre 7 et 18 nuits dans les merveilles de l'Indonésie",
+        "destinationName": "Indonésie : Bali & Lombok",
+        "normalizedPrice": 538.86,
+        "discount": 0.0,
+        "offerStartDate": "2024-12-18T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "La Casa de la Trinidad ****",
+        "destinationName": "Grenade, Espagne",
+        "normalizedPrice": 59.0,
+        "discount": 55.0,
+        "offerStartDate": "2024-12-15T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "voco Madrid Retiro, an IHG Hotel ****",
+        "destinationName": "Madrid, Espagne",
+        "normalizedPrice": 139.0,
+        "discount": 37.0,
+        "offerStartDate": "2024-11-22T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Las Casas de El Arenal ****",
+        "destinationName": "Séville, Espagne",
+        "normalizedPrice": 79.0,
+        "discount": 44.0,
+        "offerStartDate": "2024-12-17T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Pullman Paris Montparnasse ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 199.0,
+        "discount": 48.0,
+        "offerStartDate": "2024-12-23T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "The Royal Senses Resort & Spa Crete, Curio Collection by Hilton *****",
+        "destinationName": "Crète, Grèce",
+        "normalizedPrice": 199.0,
+        "discount": 44.0,
+        "offerStartDate": "2024-12-30T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Magic Life Penelope Beach ****",
+        "destinationName": "Djerba, Tunisie",
+        "normalizedPrice": 258.0,
+        "discount": null,
+        "offerStartDate": "2024-12-24T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "The Heritage Avenida Liberdade Hotel ****",
+        "destinationName": "Lisbonne, Portugal",
+        "normalizedPrice": 113.0,
+        "discount": 62.0,
+        "offerStartDate": "2024-12-30T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel Carlton Capri",
+        "destinationName": "Venise, Italie",
+        "normalizedPrice": 89.0,
+        "discount": 53.0,
+        "offerStartDate": "2024-12-29T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "The 8 Downtown Suites",
+        "destinationName": "Lisbonne, Portugal",
+        "normalizedPrice": 76.0,
+        "discount": 32.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel da Rocha ****",
+        "destinationName": "Algarve, Portugal",
+        "normalizedPrice": 112.0,
+        "discount": 39.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Martin's Château du Lac *****",
+        "destinationName": "Genval, Belgique",
+        "normalizedPrice": 139.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel N’vY Genève ****",
+        "destinationName": "Genève, Suisse",
+        "normalizedPrice": 188.46,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "TRIBE Milano Malpensa ****",
+        "destinationName": "Milan, Italie",
+        "normalizedPrice": null,
+        "discount": null,
+        "offerStartDate": "2025-01-09T00:55+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Palazzo Castri 1874 ****",
+        "destinationName": "Florence, Italie",
+        "normalizedPrice": 138.0,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Pullman Paris Roissy CDG Airport ****",
+        "destinationName": "Roissy-en-France, France",
+        "normalizedPrice": 152.0,
+        "discount": 57.0,
+        "offerStartDate": "2024-12-24T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Une à deux semaines de découvertes & de farniente à Cuba",
+        "destinationName": "Cuba : La Havane & Trinidad",
+        "normalizedPrice": 715.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-02T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Sharm Club Beach Resort ****",
+        "destinationName": "Charm El-Cheikh, Égypte",
+        "normalizedPrice": 85.0,
+        "discount": 44.0,
+        "offerStartDate": "2024-12-31T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "De la Havane à Varadero, découvrez Cuba, la perle des Caraïbes",
+        "destinationName": "Cuba : La Havane & Varadero",
+        "normalizedPrice": 546.0,
+        "discount": 0.0,
+        "offerStartDate": "2024-12-24T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "The Reef Playacar ****",
+        "destinationName": "Playa del Carmen, Mexique",
+        "normalizedPrice": 1074.0,
+        "discount": null,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Sofitel Marrakech Palais Impérial & Spa *****",
+        "destinationName": "Marrakech, Maroc",
+        "normalizedPrice": 202.14,
+        "discount": 54.0,
+        "offerStartDate": "2024-12-29T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Royal Genève ****",
+        "destinationName": "Genève, Suisse",
+        "normalizedPrice": 187.4,
+        "discount": 41.0,
+        "offerStartDate": "2024-12-31T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Luxury Bahia Principe Bouganville - Adults Only *****",
+        "destinationName": "La Romana, République dominicaine",
+        "normalizedPrice": 592.28,
+        "discount": 30.0,
+        "offerStartDate": "2024-12-31T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Nehô Suites Cannes Croisette ****",
+        "destinationName": "Cannes, France",
+        "normalizedPrice": 107.0,
+        "discount": 24.0,
+        "offerStartDate": "2024-12-31T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Fairmont Taghazout Bay *****",
+        "destinationName": "Taghazout, Maroc",
+        "normalizedPrice": 296.36,
+        "discount": 55.0,
+        "offerStartDate": "2024-12-24T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Victory House, London Leicester Square ****",
+        "destinationName": "Londres, Royaume-Uni",
+        "normalizedPrice": 392.0,
+        "discount": 33.0,
+        "offerStartDate": "2024-12-31T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "TUI BLUE Manar *****",
+        "destinationName": "Hammamet, Tunisie",
+        "normalizedPrice": 269.0,
+        "discount": null,
+        "offerStartDate": "2024-12-30T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Seabel Rym beach Djerba ****",
+        "destinationName": "Djerba, Tunisie",
+        "normalizedPrice": 61.0,
+        "discount": 56.0,
+        "offerStartDate": "2024-12-15T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Caravan by Habitas Dakhla *****",
+        "destinationName": "Dakhla, Maroc",
+        "normalizedPrice": 205.0,
+        "discount": 55.0,
+        "offerStartDate": "2024-12-19T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mama Shelter Lisboa",
+        "destinationName": "Lisbonne, Portugal",
+        "normalizedPrice": 87.0,
+        "discount": 51.0,
+        "offerStartDate": "2025-01-03T06:00+0100",
+        "offerEndDate": "2025-01-15T05:00+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Velamar Boutique Hotel - Adults Friendly",
+        "destinationName": "Algarve, Portugal",
+        "normalizedPrice": 47.0,
+        "discount": 42.0,
+        "offerStartDate": "2025-01-07T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Amsterdam Sloterdijk Station ****",
+        "destinationName": "Amsterdam, Pays-Bas",
+        "normalizedPrice": 68.0,
+        "discount": 48.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Swissotel Tallinn",
+        "destinationName": "Tallinn, Estonie",
+        "normalizedPrice": 93.0,
+        "discount": 63.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Riu Republica - Adults Only *****",
+        "destinationName": "Punta Cana, République Dominicaine",
+        "normalizedPrice": 1129.0,
+        "discount": null,
+        "offerStartDate": "2025-01-01T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Fontainebleau Ury ****",
+        "destinationName": "Fontainebleau, France",
+        "normalizedPrice": 89.0,
+        "discount": 45.0,
+        "offerStartDate": "2025-01-01T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit privatif : De la fascinante Phnom Penh aux îles de Koh Rong et Kampot en extension",
+        "destinationName": "Cambodge",
+        "normalizedPrice": 985.75,
+        "discount": 0.0,
+        "offerStartDate": "2024-11-21T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Voco Dubai The Palm ****",
+        "destinationName": "Dubaï, Émirats Arabes Unis",
+        "normalizedPrice": 138.07,
+        "discount": 53.0,
+        "offerStartDate": "2025-01-02T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Riad à Marrakech",
+        "destinationName": "Marrakech, Maroc",
+        "normalizedPrice": 91.0,
+        "discount": 54.0,
+        "offerStartDate": "2025-01-02T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Dièse Hôtel Bastille",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 98.0,
+        "discount": 32.0,
+        "offerStartDate": "2025-01-02T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Kappa Selection Barcelo Playa Blanca ****",
+        "destinationName": "Lanzarote, Îles Canaries",
+        "normalizedPrice": 792.0,
+        "discount": null,
+        "offerStartDate": "2025-01-02T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Le Louis Versailles Château MGallery ****",
+        "destinationName": "Versailles, France",
+        "normalizedPrice": 147.0,
+        "discount": 48.0,
+        "offerStartDate": "2024-12-12T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Vale d'El Rei Hotel & Villas ****",
+        "destinationName": "Algarve, Portugal",
+        "normalizedPrice": 62.0,
+        "discount": 47.0,
+        "offerStartDate": "2025-01-02T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Paris Porte de Versailles ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 135.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-02T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Occidental Sousse Marhaba by Barcelo ****",
+        "destinationName": "Sousse, Tunisie",
+        "normalizedPrice": 256.0,
+        "discount": null,
+        "offerStartDate": "2025-01-02T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel Isa ****",
+        "destinationName": "Rome, Italie",
+        "normalizedPrice": 176.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-02T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Village Sainte-Luce - Pierre & Vacances",
+        "destinationName": "Martinique, France",
+        "normalizedPrice": 58.0,
+        "discount": 55.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Best Semiramis *****",
+        "destinationName": "Tenerife, Îles Canaries",
+        "normalizedPrice": 248.0,
+        "discount": null,
+        "offerStartDate": "2025-01-07T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Villa Las Tronas Hotel & Spa *****",
+        "destinationName": "Sardaigne, Italie",
+        "normalizedPrice": 248.0,
+        "discount": 36.0,
+        "offerStartDate": "2025-01-02T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Herodion Hotel ****",
+        "destinationName": "Athènes, Grèce",
+        "normalizedPrice": 88.0,
+        "discount": 32.0,
+        "offerStartDate": "2024-12-26T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Village Pierre & Vacances - Sainte-Anne Guadeloupe",
+        "destinationName": "Guadeloupe, France",
+        "normalizedPrice": 55.0,
+        "discount": 55.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit groupé : Aventure estivale d’une semaine dans les terres islandaises",
+        "destinationName": "Islande",
+        "normalizedPrice": 2326.0,
+        "discount": 0.0,
+        "offerStartDate": "2024-12-10T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit privatif : des Forts et temples du Rajhastan au Parc de Ranthambore et ses tigres",
+        "destinationName": "Inde",
+        "normalizedPrice": 1287.59,
+        "discount": 28.0,
+        "offerStartDate": "2024-12-11T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit : Escapade Tropicale au Costa Rica",
+        "destinationName": "Costa Rica",
+        "normalizedPrice": 2029.0,
+        "discount": 0.0,
+        "offerStartDate": "2024-12-11T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit groupé : la Norvège des Îles Lofoten à la région des Fjords",
+        "destinationName": "Norvège",
+        "normalizedPrice": 2653.0,
+        "discount": 0.0,
+        "offerStartDate": "2024-12-17T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit privatif : Palais et déserts du Rajasthan 9 ou 13 nuits en hôtels de luxe",
+        "destinationName": "Inde",
+        "normalizedPrice": 1250.88,
+        "discount": 35.0,
+        "offerStartDate": "2024-07-30T00:05+0200",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "6 à 10 jours dans deux recoins fabuleux de Thaïlande",
+        "destinationName": "Thaïlande : Phuket & Khao Lak",
+        "normalizedPrice": 645.15,
+        "discount": 0.0,
+        "offerStartDate": "2024-11-22T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit groupé : Le Caire & le Nil en dahabeya traditionnelle",
+        "destinationName": "Égypte",
+        "normalizedPrice": 2156.0,
+        "discount": 0.0,
+        "offerStartDate": "2024-12-23T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit groupé : des cités royales aux plages d’Andaman, voyage inoubliable en Thaïlande",
+        "destinationName": "Thaïlande",
+        "normalizedPrice": 1930.0,
+        "discount": null,
+        "offerStartDate": "2024-12-06T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit privatif : La beauté intemporelle du Vietnam avec extension optionnelle au Cambodge",
+        "destinationName": "Vietnam & Cambodge",
+        "normalizedPrice": 1102.29,
+        "discount": 0.0,
+        "offerStartDate": "2024-12-06T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Kappa Club Waridi Beach Resort & Spa ****",
+        "destinationName": "Zanzibar, Tanzanie",
+        "normalizedPrice": 1054.0,
+        "discount": null,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Le Clos Violette et Le 11 d'Aglaé",
+        "destinationName": "L'Isle-sur-la-Sorgue, France",
+        "normalizedPrice": 166.0,
+        "discount": 35.0,
+        "offerStartDate": "2024-12-30T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Maison Athénée ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 215.0,
+        "discount": 43.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Esté ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 164.0,
+        "discount": 35.0,
+        "offerStartDate": "2024-12-27T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Viva Wyndham V Samana ***** - Adults Only",
+        "destinationName": "Samana, République dominicaine",
+        "normalizedPrice": 1100.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel Diana Dauphine ****",
+        "destinationName": "Strasbourg, France",
+        "normalizedPrice": 96.0,
+        "discount": 36.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Safari : Échappée sauvage en Tanzanie et à Zanzibar",
+        "destinationName": "Zanzibar, Tanzanie",
+        "normalizedPrice": 2513.0,
+        "discount": null,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "New Star Beach Resort ****",
+        "destinationName": "Koh Samui, Thaïlande",
+        "normalizedPrice": 139.14,
+        "discount": 44.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Sands Suites Resort & Spa Mauritius ****",
+        "destinationName": "Flic-en-Flac, Île Maurice",
+        "normalizedPrice": 304.0,
+        "discount": 30.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Les merveilles de l'Andalousie en toute liberté",
+        "destinationName": "Andalousie, Espagne",
+        "normalizedPrice": 625.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Callistos Hotel & Spa ****",
+        "destinationName": "Les Pouilles, Italie",
+        "normalizedPrice": 80.0,
+        "discount": 45.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit : Un voyage dans l'esprit du Japon",
+        "destinationName": "Japon",
+        "normalizedPrice": 1526.0,
+        "discount": 0.0,
+        "offerStartDate": "2024-12-02T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mama Shelter Roma ****",
+        "destinationName": "Rome, Italie",
+        "normalizedPrice": 89.0,
+        "discount": 54.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel & Spa La Belle Juliette ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 165.0,
+        "discount": 56.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel West-End ****",
+        "destinationName": "Nice, France",
+        "normalizedPrice": 97.0,
+        "discount": 56.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Sofitel Marseille Vieux Port *****",
+        "destinationName": "Marseille, France",
+        "normalizedPrice": 187.0,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit privatif : Sri Lanka, une expérience à vivre dans des hôtels Deluxe",
+        "destinationName": "Sri Lanka",
+        "normalizedPrice": 1292.64,
+        "discount": 0.0,
+        "offerStartDate": "2024-07-13T00:05+0200",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "The Residence Maldives at Dhigurah *****",
+        "destinationName": "Maldives",
+        "normalizedPrice": 1777.26,
+        "discount": 37.0,
+        "offerStartDate": "2024-12-27T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "The Residence Maldives at Falhumaafushi *****",
+        "destinationName": "Maldives",
+        "normalizedPrice": 1374.22,
+        "discount": 69.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit groupé : Découvrez les grands mystères de l'Égypte ancienne",
+        "destinationName": "Égypte",
+        "normalizedPrice": 823.56,
+        "discount": 43.0,
+        "offerStartDate": "2024-09-02T00:05+0200",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel 77 Seventy-Seven - Maison D'Art Collection ****",
+        "destinationName": "Rome, Italie",
+        "normalizedPrice": 112.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Sir Victor Hotel *****",
+        "destinationName": "Barcelone, Espagne",
+        "normalizedPrice": 183.0,
+        "discount": 50.0,
+        "offerStartDate": "2024-12-27T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Seven Hills Hotel ****",
+        "destinationName": "Istanbul, Turquie",
+        "normalizedPrice": 100.0,
+        "discount": 47.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Park Hotel San Jorge ****",
+        "destinationName": "Costa Brava, Espagne",
+        "normalizedPrice": 62.0,
+        "discount": 56.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Ulysse Palace Resort & Thalasso *****",
+        "destinationName": "Djerba, Tunisie",
+        "normalizedPrice": 273.0,
+        "discount": null,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "UNAHOTELS Ala Venezia - Adults Only",
+        "destinationName": "Venise, Italie",
+        "normalizedPrice": 94.0,
+        "discount": 41.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-18T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Le Frégate Provence ****",
+        "destinationName": "Bandol, France",
+        "normalizedPrice": 132.0,
+        "discount": 51.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-18T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "BessaHotel Baixa ****",
+        "destinationName": "Porto, Portugal",
+        "normalizedPrice": 118.0,
+        "discount": 38.0,
+        "offerStartDate": "2025-01-04T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Millennium Downtown New York ****",
+        "destinationName": "New York, États-Unis",
+        "normalizedPrice": 129.56,
+        "discount": 52.0,
+        "offerStartDate": "2024-12-21T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Cavo Olympo Luxury Hotel & Spa ***** - Adults Only",
+        "destinationName": "Litochoro, Grèce",
+        "normalizedPrice": 120.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-04T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Le Louise Hotel Brussels - MGallery *****",
+        "destinationName": "Bruxelles, Belgique",
+        "normalizedPrice": 140.0,
+        "discount": 33.0,
+        "offerStartDate": "2024-12-27T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel R de Paris ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 135.0,
+        "discount": 47.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-19T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Royal M Hotel & Resort Abu Dhabi *****",
+        "destinationName": "Abu Dhabi, Émirats arabes unis",
+        "normalizedPrice": 542.0,
+        "discount": null,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Château L’Hospitalet Wine Resort Beach & Spa *****",
+        "destinationName": "Narbonne, France",
+        "normalizedPrice": 189.0,
+        "discount": 57.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Grand Hôtel Roi René Aix en Provence Centre MGallery ****",
+        "destinationName": "Aix-en-Provence, France",
+        "normalizedPrice": 112.0,
+        "discount": 48.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "L'Azure hotel **** SUP",
+        "destinationName": "Lloret de Mar, Espagne",
+        "normalizedPrice": 108.0,
+        "discount": 43.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Sonus Alpis - Adults Only ****",
+        "destinationName": "Alpes italiennes, Italie",
+        "normalizedPrice": 208.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "La Maison Verchant",
+        "destinationName": "Hérault, France",
+        "normalizedPrice": 149.0,
+        "discount": 39.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Fruit & Spice Wellness Resort Zanzibar *****",
+        "destinationName": "Zanzibar, Tanzanie",
+        "normalizedPrice": 207.44,
+        "discount": 41.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Sofitel Biarritz Le Miramar Thalassa Sea & spa *****",
+        "destinationName": "Biarritz, France",
+        "normalizedPrice": 189.0,
+        "discount": 49.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hilton Mauritius Resort & Spa *****",
+        "destinationName": "Flic en Flac, Île Maurice",
+        "normalizedPrice": 311.0,
+        "discount": 55.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Jules César Arles MGallery *****",
+        "destinationName": "Arles, France",
+        "normalizedPrice": 142.0,
+        "discount": 34.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Domaine du Mas de Pierre *****",
+        "destinationName": "Saint-Paul-de-Vence, France",
+        "normalizedPrice": 173.0,
+        "discount": 52.0,
+        "offerStartDate": "2025-01-02T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel Costa Brava",
+        "destinationName": "Costa Brava, Espagne",
+        "normalizedPrice": 88.0,
+        "discount": 30.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Dreams Lanzarote Playa Dorada Resort & Spa *****",
+        "destinationName": "Lanzarote, Îles Canaries",
+        "normalizedPrice": 580.0,
+        "discount": null,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Suites of the Gods Cave Spa Suites *****",
+        "destinationName": "Santorin, Grèce",
+        "normalizedPrice": 155.0,
+        "discount": 63.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "The Residence Tunis *****",
+        "destinationName": "Tunis, Tunisie",
+        "normalizedPrice": 213.0,
+        "discount": 53.0,
+        "offerStartDate": "2024-12-22T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "MGallery Medina Thalassa Sea & Spa *****",
+        "destinationName": "Essaouira, Maroc",
+        "normalizedPrice": 98.98,
+        "discount": 52.0,
+        "offerStartDate": "2024-12-30T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure London Bridge ****",
+        "destinationName": "Londres, Royaume-Uni",
+        "normalizedPrice": 151.69,
+        "discount": 35.0,
+        "offerStartDate": "2024-12-29T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel La Belle Ville",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 178.0,
+        "discount": 21.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Étoile Maillot ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 213.0,
+        "discount": 10.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Kouros Hotel & Suites *****",
+        "destinationName": "Mykonos, Grèce",
+        "normalizedPrice": 232.0,
+        "discount": 52.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "The Royal Blue, a Luxury Beach Resort *****",
+        "destinationName": "Crète, Grèce",
+        "normalizedPrice": 150.0,
+        "discount": 45.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit privatif : le Vietnam à votre rythme",
+        "destinationName": "Vietnam",
+        "normalizedPrice": 1565.54,
+        "discount": 0.0,
+        "offerStartDate": "2024-12-23T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit privatif : Trésors du Vietnam avec extension à la plage Mui Ne en option",
+        "destinationName": "Vietnam",
+        "normalizedPrice": 882.8,
+        "discount": 0.0,
+        "offerStartDate": "2024-12-31T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Napoli Centro Angioino ****",
+        "destinationName": "Naples, Italie",
+        "normalizedPrice": 75.0,
+        "discount": 59.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Oaks Ibn Battuta Gate Dubai *****",
+        "destinationName": "Dubaï, Émirats arabes unis",
+        "normalizedPrice": 74.99,
+        "discount": 52.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Maison Eugénie ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 105.0,
+        "discount": 62.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Residhome Arcachon Plazza ****",
+        "destinationName": "Arcachon, France",
+        "normalizedPrice": 80.0,
+        "discount": 37.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Martin's Brussels EU ****",
+        "destinationName": "Bruxelles, Belgique",
+        "normalizedPrice": 129.0,
+        "discount": 38.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Inntel Hotels Amsterdam Centre ****",
+        "destinationName": "Amsterdam, Pays-Bas",
+        "normalizedPrice": 155.0,
+        "discount": 32.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Wine & Books Porto Hotel *****",
+        "destinationName": "Porto, Portugal",
+        "normalizedPrice": 161.0,
+        "discount": 36.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "The Ritz Carlton, Doha *****",
+        "destinationName": "Doha, Qatar",
+        "normalizedPrice": 254.24,
+        "discount": 42.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Khalidiya Palace Rayhaan by Rotana, Abu Dhabi *****",
+        "destinationName": "Abu Dhabi, Émirats arabes unis",
+        "normalizedPrice": 97.27,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "H10 Marina Barcelona ****",
+        "destinationName": "Barcelone, Espagne",
+        "normalizedPrice": 110.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure La Baule Majestic ****",
+        "destinationName": "La Baule-Escoublac, France",
+        "normalizedPrice": 120.0,
+        "discount": 36.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Enterprise Boutique Hotel & Spa ****",
+        "destinationName": "Milan, Italie",
+        "normalizedPrice": 108.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Moxy Bordeaux",
+        "destinationName": "Bordeaux, France",
+        "normalizedPrice": 79.0,
+        "discount": 45.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel London Tower Bridge ****",
+        "destinationName": "Londres, Royaume-Uni",
+        "normalizedPrice": 166.55,
+        "discount": 31.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Pullman Basel Europe ****",
+        "destinationName": "Bâle, Suisse",
+        "normalizedPrice": 131.96,
+        "discount": 45.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Le Milie Rose ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 90.0,
+        "discount": 49.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Le Grand Hôtel Cabourg - MGallery *****",
+        "destinationName": "Cabourg, France",
+        "normalizedPrice": 245.0,
+        "discount": 35.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "TRIBE Paris Clichy ****",
+        "destinationName": "Clichy, France",
+        "normalizedPrice": 107.0,
+        "discount": 44.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Tribe Paris La Défense ****",
+        "destinationName": "Courbevoie, France",
+        "normalizedPrice": 103.0,
+        "discount": 36.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "The Roseate Edinburgh *****",
+        "destinationName": "Édimbourg, Écosse",
+        "normalizedPrice": 185.73,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel TRIBE Le Touquet ****",
+        "destinationName": "Le Touquet-Paris-Plage, France",
+        "normalizedPrice": 128.0,
+        "discount": 32.0,
+        "offerStartDate": "2025-01-06T00:05+0100",
+        "offerEndDate": "2025-01-11T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel de Berri Champs Élysées *****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 450.0,
+        "discount": 41.0,
+        "offerStartDate": "2025-01-07T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Grand Hôtel Champs-Elysées *****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 290.0,
+        "discount": 39.0,
+        "offerStartDate": "2025-01-07T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Riad La Villa Bleue",
+        "destinationName": "Marrakech, Maroc",
+        "normalizedPrice": 94.0,
+        "discount": 53.0,
+        "offerStartDate": "2025-01-07T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "C.O.Q Hôtel ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 155.0,
+        "discount": 44.0,
+        "offerStartDate": "2025-01-07T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Marriott Hurghada Resort *****",
+        "destinationName": "Hurghada, Égypte",
+        "normalizedPrice": 141.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-07T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hostellerie de l’Abbaye de la Celle - Maison Alain Ducasse *****",
+        "destinationName": "Var, France",
+        "normalizedPrice": 169.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Pullman Paris La Défense *****",
+        "destinationName": "La Défense, France",
+        "normalizedPrice": 151.0,
+        "discount": 57.0,
+        "offerStartDate": "2025-01-07T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Club Framissima Evasion Vitalclass Lanzarote ****",
+        "destinationName": "Lanzarote, Îles Canaries",
+        "normalizedPrice": 351.0,
+        "discount": null,
+        "offerStartDate": "2025-01-07T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Marhaba Palace *****",
+        "destinationName": "Port El Kantaoui, Tunisie",
+        "normalizedPrice": 260.0,
+        "discount": null,
+        "offerStartDate": "2025-01-07T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Widiane Resort *****",
+        "destinationName": "Bin El Ouidane, Maroc",
+        "normalizedPrice": 128.21,
+        "discount": 56.0,
+        "offerStartDate": "2024-12-29T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Zoku Paris ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 146.0,
+        "discount": 43.0,
+        "offerStartDate": "2025-01-07T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "The James New York - NoMad ****",
+        "destinationName": "New York, États-Unis",
+        "normalizedPrice": 170.93,
+        "discount": 63.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Gypsophila Club Marine *****",
+        "destinationName": "Antalya, Turquie",
+        "normalizedPrice": 456.0,
+        "discount": null,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel La Folie des Près",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 107.0,
+        "discount": 53.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Iberostar Selection Bavaro *****",
+        "destinationName": "Punta Cana, République dominicaine",
+        "normalizedPrice": 618.28,
+        "discount": 32.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "RIU Palace Punta Cana *****",
+        "destinationName": "Punta Cana, République dominicaine",
+        "normalizedPrice": 1138.0,
+        "discount": null,
+        "offerStartDate": "2025-01-07T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Higueron Hotel Malaga, Curio Collection by Hilton *****",
+        "destinationName": "Malaga, Espagne",
+        "normalizedPrice": 152.0,
+        "discount": 57.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel Empordà Golf Resort ****",
+        "destinationName": "Costa Brava, Espagne",
+        "normalizedPrice": 136.0,
+        "discount": 35.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Maradiva Villas Resort & Spa *****",
+        "destinationName": "Flic-en-Flac, Île Maurice",
+        "normalizedPrice": 610.0,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Villa Oniria ****",
+        "destinationName": "Grenade, Espagne",
+        "normalizedPrice": 110.0,
+        "discount": 52.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Amarilis Hotel ****",
+        "destinationName": "Prague, République tchèque",
+        "normalizedPrice": 75.0,
+        "discount": 30.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Vedana Lagoon Resort & Spa *****",
+        "destinationName": "Hué, Vietnam",
+        "normalizedPrice": 150.28,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Novotel Paris Saint-Denis Stade Basilique ****",
+        "destinationName": "Seine-Saint-Denis, France",
+        "normalizedPrice": 100.0,
+        "discount": 41.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Trianon Rive Gauche ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 149.0,
+        "discount": 55.0,
+        "offerStartDate": "2025-01-02T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Monte Cristo ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 164.0,
+        "discount": 46.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Le Dokhan's Paris Arc de Triomphe, a Tribute Portfolio Hotel *****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 310.0,
+        "discount": 53.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Rocrita Lifestyle Beach Resort *****",
+        "destinationName": "Crète, Grèce",
+        "normalizedPrice": 193.0,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Renaissance Koh Samui Resort & Spa *****",
+        "destinationName": "Koh Samui, Thaïlande",
+        "normalizedPrice": 186.52,
+        "discount": 55.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel L'Antoine ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 142.0,
+        "discount": 41.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "InterContinental Dubai Festival City *****",
+        "destinationName": "Dubaï, Émirats arabes unis",
+        "normalizedPrice": 153.75,
+        "discount": 49.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel Son Caliu Spa Oasis **** SUP",
+        "destinationName": "Majorque, Espagne",
+        "normalizedPrice": 141.0,
+        "discount": 51.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Bordoy Alcudia Port Suites *****",
+        "destinationName": "Majorque, Espagne",
+        "normalizedPrice": 132.0,
+        "discount": 32.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Grand Hotel Sitea *****",
+        "destinationName": "Turin, Italie",
+        "normalizedPrice": 159.0,
+        "discount": 45.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Kooddoo Maldives **** - Adults Only",
+        "destinationName": "Maldives",
+        "normalizedPrice": 1368.39,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Vitor's Village ****",
+        "destinationName": "Algarve, Portugal",
+        "normalizedPrice": 66.0,
+        "discount": 33.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Château de la Tour ****",
+        "destinationName": "Chantilly, France",
+        "normalizedPrice": 85.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "The Royal Purnama ***** - Adults Only",
+        "destinationName": "Bali, Indonésie",
+        "normalizedPrice": 159.97,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Lisboa Plaza - Lisbon Heritage Collection **** SUP",
+        "destinationName": "Lisbonne, Portugal",
+        "normalizedPrice": 97.0,
+        "discount": 57.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "AHG Riva Del Sole Hotel **** - Adults Only",
+        "destinationName": "Lac de Garde, Italie",
+        "normalizedPrice": 149.0,
+        "discount": 45.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Croisière dans les splendeurs ibériques avec CFC",
+        "destinationName": "Péninsule Ibérique",
+        "normalizedPrice": 1289.0,
+        "discount": 20.0,
+        "offerStartDate": "2025-01-11T00:05+0100",
+        "offerEndDate": "2025-01-11T00:05+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Luxury Bahia Principe Akumal ***** All Inclusive",
+        "destinationName": "Riviera Maya, Mexique",
+        "normalizedPrice": 677.71,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Royal Hotel Sanremo *****L",
+        "destinationName": "Sanremo, Italie",
+        "normalizedPrice": 213.0,
+        "discount": 45.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "The Fives Beach Hotel & Residences *****",
+        "destinationName": "Playa del Carmen, Mexique",
+        "normalizedPrice": 251.54,
+        "discount": 55.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-14T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit privatif : Grand Tour Impérial du Maroc avec aventure dans le désert",
+        "destinationName": "Maroc",
+        "normalizedPrice": 1073.0,
+        "discount": 40.0,
+        "offerStartDate": "2024-07-05T00:05+0200",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Club Coralia Landmar Playa La Arena ****",
+        "destinationName": "Tenerife, Îles Canaries",
+        "normalizedPrice": 671.0,
+        "discount": null,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Madame Drouot & Spa ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 206.0,
+        "discount": 47.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Grand Hotel Faraglioni ****",
+        "destinationName": "Sicile, Italie",
+        "normalizedPrice": 99.0,
+        "discount": 42.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Santorin, Naxos & Mykonos, à travers l’archipel unique",
+        "destinationName": "Cyclades, Grèce",
+        "normalizedPrice": 591.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Radisson Collection Hotel, Palazzo Nani Venice *****",
+        "destinationName": "Venise, Italie",
+        "normalizedPrice": 250.0,
+        "discount": 35.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "À la Cour d'Alsace ****",
+        "destinationName": "Obernai, France",
+        "normalizedPrice": 108.0,
+        "discount": 36.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Bluebay Beach Resort & Spa ***** avec extension safari",
+        "destinationName": "Tanzanie",
+        "normalizedPrice": 1412.0,
+        "discount": 40.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Marseille Canebière Vieux Port ****",
+        "destinationName": "Marseille, France",
+        "normalizedPrice": 82.0,
+        "discount": 45.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Westotel Le Pouliguen ****",
+        "destinationName": "Le Pouliguen, France",
+        "normalizedPrice": 115.0,
+        "discount": null,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Le Metropolitan Paris Tour Eiffel *****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 330.0,
+        "discount": 43.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Échappée crétoise",
+        "destinationName": "Crète, Grèce",
+        "normalizedPrice": 448.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "La Villa Douce ****",
+        "destinationName": "Côte d'Azur, France",
+        "normalizedPrice": 130.0,
+        "discount": 37.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Château d'Augerville Golf & Spa *****",
+        "destinationName": "Loiret, France",
+        "normalizedPrice": 199.0,
+        "discount": 42.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Kraft Hôtel Paris ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 139.0,
+        "discount": 63.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Ambassador Zlata Husa *****",
+        "destinationName": "Prague, République tchèque",
+        "normalizedPrice": 97.0,
+        "discount": 42.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "K'uyen Hotel boutique - Adults Only",
+        "destinationName": "Tulum, Mexique",
+        "normalizedPrice": 74.65,
+        "discount": 45.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel Riu Baobab *****",
+        "destinationName": "Pointe Sarène, Sénégal",
+        "normalizedPrice": 775.0,
+        "discount": null,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "NoMo Soho ****",
+        "destinationName": "New York, États-Unis",
+        "normalizedPrice": 95.0,
+        "discount": 52.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Du Vieux Saule",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 107.0,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hotel Dukes' Palace *****",
+        "destinationName": "Bruges, Belgique",
+        "normalizedPrice": 179.0,
+        "discount": 44.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Westotel Taverny - Paris Val-d'Oise ****",
+        "destinationName": "Île-de-France, France",
+        "normalizedPrice": 95.0,
+        "discount": 37.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel Le Cep *****",
+        "destinationName": "Bourgogne, France",
+        "normalizedPrice": 303.0,
+        "discount": 41.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Aziza Thalasso & Golf **** - Adult Only +16",
+        "destinationName": "Hammamet, Tunisie",
+        "normalizedPrice": 236.0,
+        "discount": null,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Villa Duflot ****",
+        "destinationName": "Perpignan, France",
+        "normalizedPrice": 140.0,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "L'Esquisse Barbizon - Teritoria ****",
+        "destinationName": "Seine-et-Marne, France",
+        "normalizedPrice": 292.0,
+        "discount": 39.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Lou Calen",
+        "destinationName": "Provence, France",
+        "normalizedPrice": 165.0,
+        "discount": 44.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Elounda Palm Hotel & Suites ****",
+        "destinationName": "Crète, Grèce",
+        "normalizedPrice": 98.0,
+        "discount": 51.0,
+        "offerStartDate": "2025-01-07T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Auberge de Cassagne & Spa *****",
+        "destinationName": "Avignon, France",
+        "normalizedPrice": 154.0,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "La Licorne Hôtel & Spa ****",
+        "destinationName": "Normandie, France",
+        "normalizedPrice": 167.0,
+        "discount": 41.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Boutique Hôtel des Remparts & Spa *****",
+        "destinationName": "Aigues-Mortes, France",
+        "normalizedPrice": 165.0,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "The Pelican Beach Resort & Spa ****S - Adults Only",
+        "destinationName": "Sardaigne, Italie",
+        "normalizedPrice": 139.0,
+        "discount": 39.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Kappa Resort ****",
+        "destinationName": "Chalcidique, Grèce",
+        "normalizedPrice": 151.0,
+        "discount": 38.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hôtel La Plage *****",
+        "destinationName": "La Grande-Motte, France",
+        "normalizedPrice": 113.0,
+        "discount": 45.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Hilton London Angel Islington ****",
+        "destinationName": "Londres, Royaume-Uni",
+        "normalizedPrice": 336.0,
+        "discount": 34.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Pullman Paris Centre Bercy ****",
+        "destinationName": "Paris, France",
+        "normalizedPrice": 160.0,
+        "discount": 49.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Swissôtel Resort Bodrum Beach *****",
+        "destinationName": "Bodrum, Turquie",
+        "normalizedPrice": 180.0,
+        "discount": 31.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-12T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Inara Camp",
+        "destinationName": "Désert d'Agafay, Maroc",
+        "normalizedPrice": 177.63,
+        "discount": 54.0,
+        "offerStartDate": "2025-01-09T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Al Maaden Villa Hotel & Spa *****",
+        "destinationName": "Marrakech, Maroc",
+        "normalizedPrice": 263.56,
+        "discount": 55.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-16T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Bali authentique entre sérénité d’Ubud et effervescence de Canggu",
+        "destinationName": "Bali, Indonésie",
+        "normalizedPrice": 390.46,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-13T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Royal Emeraude Dinard - MGallery ****",
+        "destinationName": "Dinard, France",
+        "normalizedPrice": 118.0,
+        "discount": 56.0,
+        "offerStartDate": "2025-01-05T00:05+0100",
+        "offerEndDate": "2025-01-15T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Masseria Ferarelli Trepizzi",
+        "destinationName": "Les Pouilles, Italie",
+        "normalizedPrice": 99.0,
+        "discount": 50.0,
+        "offerStartDate": "2025-01-13T00:05+0100",
+        "offerEndDate": "2025-01-13T00:05+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit groupé : Légendes de l'Égypte et Mer Rouge à Hurghada avec extension au Caire",
+        "destinationName": "Égypte",
+        "normalizedPrice": 1521.84,
+        "discount": 40.0,
+        "offerStartDate": "2024-12-19T00:05+0100",
+        "offerEndDate": "2025-01-17T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit privatif : périple en Inde et farniente de rêve aux Maldives",
+        "destinationName": "Inde & Maldives",
+        "normalizedPrice": 2366.77,
+        "discount": 30.0,
+        "offerStartDate": "2024-12-18T00:05+0100",
+        "offerEndDate": "2025-01-17T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit privatif : visite privée de Bali et des îles Gili.",
+        "destinationName": "Indonésie : Bali & Gili Trawangan",
+        "normalizedPrice": 1042.0,
+        "discount": 0.0,
+        "offerStartDate": "2024-12-10T00:05+0100",
+        "offerEndDate": "2025-01-17T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit privatif : Sublime échappée au Vietnam avec extension à la plage en option",
+        "destinationName": "Vietnam",
+        "normalizedPrice": 1458.71,
+        "discount": 0.0,
+        "offerStartDate": "2024-12-30T00:05+0100",
+        "offerEndDate": "2025-01-17T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit groupé : Grand tour de luxe en Égypte",
+        "destinationName": "Égypte",
+        "normalizedPrice": 1978.29,
+        "discount": 32.0,
+        "offerStartDate": "2025-01-04T00:05+0100",
+        "offerEndDate": "2025-01-17T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit privatif : à la découverte des trésors des Maldives et du Sri Lanka",
+        "destinationName": "Sri Lanka et Maldives",
+        "normalizedPrice": 2438.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-04T00:05+0100",
+        "offerEndDate": "2025-01-17T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Mercure Omaha Beach ****",
+        "destinationName": "Calvados, France",
+        "normalizedPrice": 99.0,
+        "discount": 56.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-17T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Le meilleur du Costa Rica et détente sur les plages de Bocas del Toro",
+        "destinationName": "Costa Rica",
+        "normalizedPrice": 1925.0,
+        "discount": 0.0,
+        "offerStartDate": "2024-12-19T00:05+0100",
+        "offerEndDate": "2025-01-17T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit : voyage culinaire au Vietnam avec extension plage en option",
+        "destinationName": "Vietnam",
+        "normalizedPrice": 1439.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-03T00:05+0100",
+        "offerEndDate": "2025-01-20T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Bangkok & îles paradisiaques, immersion dans deux faces de la Thaïlande",
+        "destinationName": "Thaïlande",
+        "normalizedPrice": 1273.22,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-20T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Voyage d’exception entre rizières, plages et luxe balinais",
+        "destinationName": "Indonésie : Ubud, Gili, Canggu",
+        "normalizedPrice": 503.71,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-20T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit : À la découverte de Tokyo et Kyoto en 7, 9, 11 ou 13 nuits",
+        "destinationName": "Japon",
+        "normalizedPrice": 372.0,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-10T00:05+0100",
+        "offerEndDate": "2025-01-20T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Circuit privatif : les incontournables de la Thaïlande avec extension à Krabi",
+        "destinationName": "Thaïlande",
+        "normalizedPrice": 1469.4,
+        "discount": 0.0,
+        "offerStartDate": "2025-01-08T00:05+0100",
+        "offerEndDate": "2025-01-27T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Framissima Abora Interclub Atlantic by Lopesan Hotels ****",
+        "destinationName": "Grande Canarie, Îles Canaries",
+        "normalizedPrice": 419.0,
+        "discount": null,
+        "offerStartDate": "2025-02-07T00:05+0100",
+        "offerEndDate": "2025-02-07T00:05+0100",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Tour du monde en avion privatisé : Visages et Civilisations du Monde avec Ciels du Monde",
+        "destinationName": "3 continents, 9 pays",
+        "normalizedPrice": 21900.0,
+        "discount": 0.0,
+        "offerStartDate": "2024-11-21T00:05+0100",
+        "offerEndDate": "2025-06-16T23:55+0200",
+        "retrievalDate": "2025-01-10"
+    },
+    {
+        "name": "Domaine du Ferret Restaurant & Spa **** - Dernière minute",
+        "destinationName": "Lège-Cap-Ferret, France",
+        "normalizedPrice": 132.0,
+        "discount": null,
+        "offerStartDate": "2024-12-13T00:05+0100",
+        "offerEndDate": "2026-12-31T23:55+0100",
+        "retrievalDate": "2025-01-10"
+    }
+]
